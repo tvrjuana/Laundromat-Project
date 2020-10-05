@@ -72,7 +72,7 @@ public class ProjectTester
         schedule.printSchedule();
 
         
-       /Inventory inventory = new Inventory();
+       Inventory inventory = new Inventory();
 
         // Add Products to inventory
         inventory.addProduct("Some kind of cleaning product", "box256", 10, 19.80);
